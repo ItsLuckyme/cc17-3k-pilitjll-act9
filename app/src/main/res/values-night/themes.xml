@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Cc173fdelenaamact9" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorPrimaryContainer">@color/dark_gray</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryContainer">@color/dark_gray</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+
+        <item name="colorSurface">@color/black</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/dark_gray</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+        <item name="colorOutline">@color/white</item>
+        <item name="colorOutlineVariant">@color/light_gray</item>
+
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorError">@color/white</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FlightSearch" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/light_gray</item>
+        <item name="colorOnPrimaryContainer">@color/black</item>
+
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/light_gray</item>
+        <item name="colorOnSecondaryContainer">@color/black</item>
+
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorSurfaceVariant">@color/light_gray</item>
+        <item name="colorOnSurfaceVariant">@color/black</item>
+        <item name="colorOutline">@color/black</item>
+        <item name="colorOutlineVariant">@color/dark_gray</item>
+
+        <item name="colorControlNormal">@color/black</item>
+        <item name="colorError">@color/black</item>
+
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.FlightSearch" parent="Base.Theme.FlightSearch" />
+</resources>
